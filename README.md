@@ -1,16 +1,16 @@
-## Hi there 👋
+Hey there 👋
 
-<!--
-**heihoIan/heihoIan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ian, a currently CS student.
 
-Here are some ideas to get you started:
+I turning my idea to become a real project, design and build whatever I imagine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe the best way to learn is to ship.
+
+My main tech stack is HTML, CSS, JavaScript, Python, Node.js.
+
+I'm currently working on travel Receipt Tracker — AI-powered trip expense tracker for travelers with receipt scanning, Notion sync, budget tracking.
+
+Fun Facts:
+
+- I have a cat call peanut
+- winter is my favorite idol
