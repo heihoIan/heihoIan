@@ -6,7 +6,7 @@ I turning my idea to become a real project, design and build whatever I imagine.
 
 I believe the best way to learn is to ship.
 
-My main tech stack is HTML, CSS, JavaScript, Python, Node.js.
+My main tech stack is HTML, CSS, JavaScript, Python.
 
 I'm currently working on travel Receipt Tracker — AI-powered trip expense tracker for travelers with receipt scanning, Notion sync, budget tracking.
 
